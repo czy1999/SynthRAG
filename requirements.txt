@@ -1,0 +1,6 @@
+transformers
+dashscope
+modelscope
+pandas
+BeautifulSoup4
+scikit-learn
